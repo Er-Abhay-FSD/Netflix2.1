@@ -40,7 +40,7 @@ To run the Netflix 2.0 web app locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/mishrakushal/netflix-2.git
+   git clone https://github.com/Er-Abhay-FSD/Netflix2.1.git
    ```
 
 2. Navigate to the project directory:
